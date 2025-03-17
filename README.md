@@ -41,13 +41,19 @@ The idea behind this vault is to provide a viable solution to many different iss
 
 Feel free to use this vault as a starting point, edit it and make it your own. Far from me to tell you how you should use it, but I can tell you how I use it. I find that having a fairly rigid structure works better for me in a work environment than my non-work vault, where I employ a much more Zettelkasten style of note taking for my knowledge management. In this case, I want my 'work knowledge' organized and structured in such a way that things are relatively silo'd but still relationally linked. 
 
-1. I keep Obsidian open at all times on a second monitor, open to the Homepage. 
-2. My homepage has all the buttons I use to create a new note based on templates. This cuts down on the friction of specifying the things I want included in frontmatter when creating a new note. 
-3. If something isn't included in the template that I later decide I want, I can always add it to frontmatter. 
-4. Document everything. The system is only as useful as you make it through rigid use. I come from a sales background where your paycheck is only as good as the notes you've taken on your interactions, and so I aim for the least friction in note creation I can manage. If I had JS background, I would definitely be using Dataviewjs. 
-5. Use the task tracking and daily note to keep track of your productivity. 
-6. Use the Dataview queries to keep track of current and potential projects, ideas, and wins on the horizon. 
-7. Use the CRM as close to how you would a traditional CRM as possible. I've included the ability to include both companies and individual contacts via buttons.
+1. Download Obsidian from obsidian.md/download
+2. Install to the directory you prefer.
+3. Download this repository using the linke below "Releases" or by cloning the repository with "git clone github.com/dataskillup/MKT-vault"
+4. Place the Vault folder in the location you wish for it to live permanently.
+5. Launch Obsidian, choosing the second option to "Open folder as Vault..." and select the folder you just moved.
+6. ***IMPORTANT*** You MUST enable community plugins when prompted in order for the various automations and templates to function correctly. 
+7. I keep Obsidian open at all times on a second monitor, open to the Homepage. 
+8. My homepage has all the buttons I use to create a new note based on templates. This cuts down on the friction of specifying the things I want included in frontmatter when creating a new note. 
+9. If something isn't included in the template that I later decide I want, I can always add it to frontmatter. 
+10. Document everything. The system is only as useful as you make it through rigid use. I come from a sales background where your paycheck is only as good as the notes you've taken on your interactions, and so I aim for the least friction in note creation I can manage. If I had JS background, I would definitely be using Dataviewjs. 
+11. Use the task tracking and daily note to keep track of your productivity. 
+12. Use the Dataview queries to keep track of current and potential projects, ideas, and wins on the horizon. 
+13. Use the CRM as close to how you would a traditional CRM as possible. I've included the ability to include both companies and individual contacts via buttons.
 
 #### Why use Obsidian instead of (insert product/suite here)?
 
